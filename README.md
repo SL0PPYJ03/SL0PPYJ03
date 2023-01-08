@@ -3,4 +3,4 @@
 - 🌱 I’m starting to learn HTML and CSS.
 - 📫 How to reach me - You can reach my via Discord through my tag SL0PPY#0001
 
-Most of my repositorys are private, sorry.
+My repositorys are private, sorry.
